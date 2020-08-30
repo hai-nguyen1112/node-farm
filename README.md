@@ -1,3 +1,5 @@
+- This is a Node.js practice project.
+
 - Installations
   * This project requires to install Node.js
 
